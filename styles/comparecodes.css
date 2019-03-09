@@ -1,0 +1,39 @@
+.accepted {
+	background: #9bf442;
+}
+
+.wrong {
+	background:#e5698c;
+}
+
+.compile {
+	background: #a9a9a9;
+}
+
+.time {
+	background: #ffff00;
+}
+
+td {
+	padding-left: 10px;
+	padding-right:10px;
+}
+
+td.color-indicator {
+	width: 100px;
+}
+
+.left {
+	width: 50%;
+	padding: 0 0;
+}
+
+.right {
+	width: 50%;
+	float: right;
+	padding: 0 0;
+}
+
+.scrollable {
+	overflow:scroll;
+}

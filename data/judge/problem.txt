@@ -1,0 +1,6 @@
+Add two numbers and print the result. 
+Take input number of test cases. Then for each test case, take input two numbers.
+
+Hahahhah funny right?
+
+For each test case, output one line consisting of the sum.

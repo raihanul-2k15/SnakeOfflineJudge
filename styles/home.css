@@ -1,0 +1,35 @@
+h2.section-title {
+	color:red;
+}
+
+#code {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:90%;
+}
+
+#submit-btn {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding:5px;
+	background:#2052a3;
+	color:white;
+}
+
+.accepted {
+	background: #9bf442;
+}
+
+.wrong {
+	background:#e5698c;
+}
+
+.compile {
+	background: #a9a9a9;
+}
+
+.time {
+	background: #ffff00;
+}

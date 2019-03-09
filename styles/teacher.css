@@ -1,0 +1,45 @@
+table{
+	border-collapse: collapse;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+tr.accepted {
+	background: #9bf442;
+}
+
+tr.wrong {
+	background:#e5698c;
+}
+
+tr.compile {
+	background: #a9a9a9;
+}
+
+tr.time {
+	background: #ffff00;
+}
+
+table,th {
+	border: 2px solid black;
+}
+
+td {
+	border:1px solid black;
+	text-align:center;
+}
+
+#submit-btn {
+	padding:5px;
+	background:#2052a3;
+	color:white;
+}
+
+#compare-btn {
+	display: block;
+	margin: 0 auto;
+	padding:5px;
+	background:#2052a3;
+	color:white;
+}
